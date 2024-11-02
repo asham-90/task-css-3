@@ -1,0 +1,68 @@
+
+.products-display{
+    padding-left: 150px;
+
+}
+    
+
+img{
+
+    width: 100%;
+}
+
+h1{
+    margin-bottom: 30px;
+}
+
+.products{
+    border: 1px solid gray;
+    width:20% ;
+    padding: 5px;
+    float: left;
+    margin-right:10px ;
+    margin-bottom:10px; 
+}
+
+.p1{
+    color: gray;
+}
+
+.old-price{
+    color: red;
+    text-decoration: dashed;
+}
+
+.new-price{
+    color: green;
+}
+.prices{
+    margin-right: 10px;
+    
+}
+
+.cart{
+    margin-right:5px ;
+}
+
+.add-cart{
+   background-color: #3477F4;
+   padding-left:40px ;
+   padding-top: 10px;
+   padding-right: 40px; 
+   padding-bottom: 10px;
+   color: white;  
+   border: #3477F4 1px solid;
+  
+}
+
+.heart{
+    padding: 10px; 
+    background-color: white;
+    border: #3477F4 1px solid;
+}
+
+.clearfix{
+    clear: both;
+}
+
+
